@@ -1,0 +1,3 @@
+files:
+  - source: PikachuXd/localization/en.yaml
+    translation: /**/PikachuXd/localization/%locale_with_underscore%.yaml
